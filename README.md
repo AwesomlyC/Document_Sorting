@@ -5,8 +5,11 @@ Python Script for sorting several document types (i.e. PDFs, Pictures, and Pytho
 
 # How-to-Run
 Download the executable file
+
 Run the executable file
+
 Select the file type you want to sort
+
 Click run!
 
 # Future Updates
